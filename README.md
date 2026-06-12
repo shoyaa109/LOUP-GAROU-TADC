@@ -1,2 +1,1 @@
-# LOUP-GAROU-TADC
-Bot Discord Loup-Garou TADC
+# LOUP-GAROU-TADC/
